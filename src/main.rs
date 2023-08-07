@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, Github on Windows");
+    println!("Hello, Github on Winds");
 }
